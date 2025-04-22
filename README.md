@@ -1,11 +1,8 @@
 # TEXT
 
-emm
-
 这个文件夹用于创作:
 
 * [note](./note/main.md)
-* [wiki](./wiki/home.md)
 
 一些Markdown语法展示在下方, 原文链接: [Markdown 官方教程](https://markdown.com.cn/)
 
