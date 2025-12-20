@@ -1,21 +1,12 @@
 # TEXT
 
-这个文件夹用于创作:
+本仓库主文件: [main](./main.md)
 
-* [note](./note/main.md)
-
-一些Markdown语法展示在下方, 原文链接: [Markdown 官方教程](https://markdown.com.cn/)
+Markdown语法链接: [Markdown 官方教程](https://markdown.com.cn/)
 
 ---
 
-# 标题
-
-> 引用
-
-* 列表项
-  * hello
-
-日志: 
+# 日志: 
 
 2023年2月3日, 黄历四七二一年正月十三: 正式将第一个未命名命名为 ***肆元子***  (乐思子 著) 
 
