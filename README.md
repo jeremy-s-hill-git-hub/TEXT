@@ -2,7 +2,10 @@
 
 本仓库主文件: [main](./main.md)
 
-Markdown语法链接: [Markdown 官方教程](https://markdown.com.cn/)
+Markdown语法可自行上网搜索, 或者浏览[实例文档](./test/example.md)以了解语法, 虽然如此, 强烈建议使用基础语法而少使用甚至不使用扩展语法以确保兼容性.
+
+该仓库的笔记方法与**卡片盒笔记法**一致, 虽然如此, 确实是本人独立想到的.  
+参考[卡片盒笔记法：一个改变我思维方式的笔记系统 - 少数派](https://sspai.com/post/95590)
 
 ---
 
@@ -12,7 +15,9 @@ Markdown语法链接: [Markdown 官方教程](https://markdown.com.cn/)
 
 黄帝纪年四七二一年正月廿九雨水: 从此开始, 该项目固定上传 (push) 于二十四节气日. 
 
-# 提交说明格式 (git commit format)
+# 旧的提交说明格式 (old git commit format)
+
+> 待新方案制定后 立即宣布废除
 
 另外, 提交文档时, 提交说明格式 (git commit format) 如下: 
 
